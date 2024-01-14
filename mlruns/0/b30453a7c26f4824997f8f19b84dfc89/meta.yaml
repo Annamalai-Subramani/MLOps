@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/MLOps/mlruns/0/b30453a7c26f4824997f8f19b84dfc89/artifacts
+end_time: 1705243877601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b30453a7c26f4824997f8f19b84dfc89
+run_name: agreeable-elk-882
+run_uuid: b30453a7c26f4824997f8f19b84dfc89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705243866029
+status: 3
+tags: []
+user_id: annam
